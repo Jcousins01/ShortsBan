@@ -1,0 +1,29 @@
+Both approaches can work, but they’re suited to different audiences:
+
+	Donation/“Buy Me a Coffee” link
+	Lowest effort to ship—you can add a menu item or popup link right now.
+	Works well when the value is obvious and the audience is broad (lots of casual YouTube users annoyed by Shorts).
+	Revenue is unpredictable; you need a large install base to see meaningful tips.
+	Paid advanced features (custom blocklist/messages)
+	Clear value proposition for power users; people who want to block specific channels, playlists, or other distracting patterns will actually pay for control.
+	Opens the door to more add-ons later (sync profiles, analytics, “smart” blocking).
+	Requires more engineering (settings UI, storage, maybe an account/license flow) and ongoing support, but yields steadier revenue once users rely on it.
+	
+Given this extension already solves a niche pain point, a hybrid is often best: launch the tip link immediately to capture goodwill, then plan a “ShortsBan Pro” tier with customizable blocklists and messages. That lets you validate demand (watch whether people donate or request features) while building toward something people will subscribe to. If adoption stays modest, the tip jar still covers hosting/coffee; if it grows, you already have a path to premium functionality.
+
+
+Additional SEO tips (outside code)
+Store listing optimization (when submitting):
+Use keywords: "youtube shorts blocker", "productivity", "focus", "distraction blocker", "youtube extension"
+Add clear screenshots showing the extension in action
+Write a detailed store description (separate from manifest description)
+Choose relevant categories
+If you create a landing page:
+Add Open Graph tags for social sharing
+Create content about the problem it solves
+Consider a simple GitHub Pages site
+Update the homepage URL:
+Replace "https://github.com/yourusername/shortsban" with your actual repository or website URL
+The code is now optimized for discoverability. The manifest description will help with store search rankings.
+
+This extension blocks YouTube Shorts and helps you stay focused. If it’s improved your browsing, a small donation would be awesome! It goes straight to me (the developer). Thanks in advance! jackcousins@live.co.uk
