@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ShortsBlock",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "Block YouTube Shorts automatically. Prevents redirects to /shorts and restores your previous page. Stay focused.",
   "action": {
     "default_popup": "popup/popup.html",

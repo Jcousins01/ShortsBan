@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "ShortsBlock",
-  "version": "1.0.1",
-  "description": "Stop YouTube Shorts from hijacking your browsing session. ShortsBlock automatically blocks /shorts URLs and redirects you back to where you were. Track your blocking stats, stay focused, and browse YouTube on your terms. Privacy-first extension with no data collection, completely free and open source.",
+  "version": "1.1.2",
+  "description": "Block YouTube Shorts automatically. Prevents redirects to /shorts and restores your previous page. Stay focused.",
   "action": {
     "default_popup": "popup/popup.html",
     "default_title": "ShortsBlock - Block YouTube Shorts",

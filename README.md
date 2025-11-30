@@ -14,7 +14,7 @@ Block YouTube Shorts automatically. Prevents redirects to youtube.com/shorts and
 ## 📥 Installation
 
 ### Firefox
-[Install from Firefox Add-ons](https://addons.mozilla.org/firefox/addon/shortsblock/) *(Coming soon)*
+[Install from Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/shorts_block/)
 
 ### Chrome
 [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/shortsblock/) *(Coming soon)*
